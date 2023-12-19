@@ -5,8 +5,8 @@
 ![image](./docs/assets/Manipulation.png)
 
 [[Paper](https://arxiv.org/pdf/2301.08455.pdf)]
-[[Project Page](https://genforce.github.io/SpacialGAN/)]
-[[Demo](https://genforce.github.io/SpacialGAN/)]
+[[Project Page](https://genforce.github.io/SpatialGAN/)]
+[[Demo](https://genforce.github.io/SpatialGAN/)]
 
 The code is coming soon. Stay tuned!
 
