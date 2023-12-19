@@ -67,9 +67,10 @@
 <div class="section">
   <div class="title">Overview</div>
   <div class="body">
-    Generative models have made huge progress in photorealistic image synthesis in recent years. To enable human to steer the image generation process and customize the output, many works explore the interpretable dimensions of the latent space in GANs. Existing methods edit the attributes of the output image such as orientation or color scheme by varying the latent code along certain directions. However, these methods usually require additional human annotations for each pre-trained model, and they mostly focus on editing global attributes
+    Generative models have made huge progress in photorealistic image synthesis in recent years. To enable human to steer the image generation process and customize the output, many works explore the interpretable dimensions of the latent space in GANs. Existing methods edit the attributes of the output image such as orientation or color scheme by varying the latent code along certain directions. However, these methods usually require additional human annotations for each pre-trained model, and they mostly focus on editing global attributes. 
     <br>
-    We design randomly sampled Gaussian heatmaps to be encoded into the intermediate layers of generative models as spatial inductive bias. Along with training the GAN model from scratch, these heatmaps are being aligned with the emerging attention of the GAN’s discriminator in a self-supervised learning manner. During inference, users can interact with the spatial heatmaps in an intuitive manner, enabling them to edit the output image by adjusting the scene layout, moving, or removing objects.
+    <br>
+    We design randomly sampled Gaussian heatmaps to be encoded into the intermediate layers of generative models as spatial inductive bias. Along with training the GAN model from scratch, these heatmaps are being aligned with the emerging attention of the GAN’s discriminator in a self-supervised learning manner. During inference, users can interact with the spatial heatmaps intuitively, enabling them to edit the output image by adjusting the scene layout, and moving, or removing objects.
  </div>
 </div>
 <!-- === Overview Section Ends === -->
