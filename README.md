@@ -1,6 +1,6 @@
 # Spatial Steerability of GANs via Self-Supervision from Discriminator
 
-> Jianyuan Wang<sup>*</sup>, Lalit Bhagat<sup>*</sup>, Ceyuan Yang, Yinghao Xu, Yujun Shen, Hongdong Li, and Bolei Zhou <br>
+> Jianyuan Wang<sup>* </sup>, Lalit Bhagat<sup>* </sup>, Ceyuan Yang, Yinghao Xu, Yujun Shen, Hongdong Li, and Bolei Zhou <br>
 > <sup>*</sup> Equal contribution <br>
 
 ![image](./docs/assets/Manipulation.png)
