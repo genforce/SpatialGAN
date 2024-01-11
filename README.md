@@ -15,11 +15,13 @@ The code is coming soon. Stay tuned!
 ## BibTeX
 
 ```bibtex
-@article{wang2023spatial,
-  title={Spatial Steerability of GANs via Self-Supervision from Discriminator},
-  author={Wang, Jianyuan and Yang, Ceyuan and Xu, Yinghao and Shen, Yujun and Li, Hongdong and Zhou, Bolei},
-  journal={arXiv preprint arXiv:2301.08455},
-  year={2023}
+@misc{wang2024spatial,
+      title={Spatial Steerability of GANs via Self-Supervision from Discriminator}, 
+      author={Jianyuan Wang and Lalit Bhagat and Ceyuan Yang and Yinghao Xu and Yujun Shen and Hongdong Li and Bolei Zhou},
+      year={2024},
+      eprint={2301.08455},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
