@@ -6,7 +6,7 @@
  and, <a href="https://boleizhou.github.io/" target="_blank">Bolei Zhou</a>
     <br>
 > <sup>*</sup> Equal contribution <br>
-
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024
 ![image](./docs/assets/Manipulation.png)
 
 [[Paper](https://arxiv.org/pdf/2301.08455.pdf)]
